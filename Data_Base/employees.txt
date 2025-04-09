@@ -1,0 +1,5 @@
+1|Gova|12/12/03|M|Indian|7397568181|2k22ece026@kiot.ac.in|405,selvamnagar,chellakuttikadu po,erumapalayam,salem-15.|7397568181|Developer|04/04/25|Embedded|Sachin|Banglore|Embedded programmer|500.00|Rs.500|001|50|100|3|3
+2|Ajaygowtham|09/04/09|M|Indian|9999988888|ajay@gmail.com|salem|9999988888|Tester|06/04/25|Embedded|Kumar|Mumbai|Tester of embedded system|550.00|1234|0.5|55|95|7|3
+3|Sanjaymohan R|22/03/2005|Male|India|8293020892|sanjaymohan22@gmail.com|30,karungalpatty|97513131361654|snbkds|5|ece|kamal|goa|goob goob|1000.00|23654|32|644545|0|10|3
+4|gokulapriyan m|26/06/2005|male|indian|9361871760|2k22ece023@kiot.ac.in|9/987 slem main road ,salem center |94638463763|Embedded|07/04/2025|ECE|Gova|Salem|Embedded Developer|500000.00|12345|07|20|90|8|0
+5|MohammedIqbalM|03/08/2005|Male|Indian|9360791447|2k22ece052@kiot.ac.in|5th Cross ,Narayana Nagar|9360791447|Developer|07/04/2025|Embedded|Sanjay|Salme|Embedded Software Dev|100000000.00|123456|00|10|95|8|2

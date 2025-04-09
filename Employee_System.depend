@@ -1,0 +1,43 @@
+# depslib dependency file v1.0
+1743950311 source:d:\my-works\employee_system\main.c
+	<stdio.h>
+	"employee.h"
+	"fileops.h"
+	"stats.h"
+	"utils.h"
+
+1743946657 d:\my-works\employee_system\employee.h
+
+1743946318 d:\my-works\employee_system\fileops.h
+
+1743946114 d:\my-works\employee_system\stats.h
+	"employee.h"
+
+1743946425 d:\my-works\employee_system\utils.h
+
+1743950494 source:d:\my-works\employee_system\employee.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"employee.h"
+	"utils.h"
+
+1743946342 source:d:\my-works\employee_system\fileops.c
+	<stdio.h>
+	<stdlib.h>
+	"fileops.h"
+	"employee.h"
+
+1743946486 source:d:\my-works\employee_system\utils.c
+	<stdio.h>
+	<string.h>
+	<ctype.h>
+	"utils.h"
+
+1743947530 source:d:\my-works\employee_system\stats.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"stats.h"
+	"employee.h"
+
